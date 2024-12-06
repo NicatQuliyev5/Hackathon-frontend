@@ -13,7 +13,7 @@
     width: 100%;
     position: relative;
     height: 100vh;
-    background-image: url(../img/login-image.png);
+    background-image: url(./image/login-image.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
